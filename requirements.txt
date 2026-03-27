@@ -1,6 +1,5 @@
 fastapi==0.135.2
 firebase_admin==7.1.0
-protobuf==7.34.1
 pydantic==2.12.5
 pydantic_settings==2.13.1
 starlette==1.0.0
